@@ -5,6 +5,7 @@ kakaoapikey.txt
 chromedriver.exe
 password.txt
 creditcard.csv
+human_activity
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
